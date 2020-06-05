@@ -1,0 +1,405 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nav",
+				"nav-link"
+			],
+			[
+				"na",
+				"navbar-item"
+			],
+			[
+				"name",
+				"nameInput"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"tex",
+				"text-shadow\tproperty"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"obj",
+				"object-fit\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"word",
+				"word-spacing\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"h",
+				"ctype.h\tstandard header"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/C++/C Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c++ program.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++ program.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c++ program.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++ program.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Programming in Sublime text/FrontEnd/Pipboy Project/Pipboy.sublime-project",
+		"/D/Programming in Sublime text/FrontEnd/Pipboy Project/pip.app.js",
+		"/D/Programming in Sublime text/FrontEnd/Pipboy Project/pip.app.css",
+		"/D/Programming in Sublime text/FrontEnd/Pipboy Project/index.html",
+		"/D/Programming in Sublime text/FrontEnd/Boot.html",
+		"/D/Programming in Sublime text/FrontEnd/JQ/JQ.js",
+		"/D/Programming in Sublime text/FrontEnd/boot.sublime-project",
+		"/D/Programming in Sublime text/FrontEnd/bootstyle.css",
+		"/D/Programming in Sublime text/FrontEnd/src.js",
+		"/D/Programming in Sublime text/FrontEnd/stylen.css",
+		"/D/Programming in Sublime text/FrontEnd/practice.html",
+		"/D/Programming in Sublime text/FrontEnd/random.html",
+		"/D/Programming in Sublime text/FrontEnd/Tether/css/tether.scss",
+		"/D/Programming in Sublime text/FrontEnd/Tether/css/tether-theme-arrows-dark.scss",
+		"/D/Programming in Sublime text/FrontEnd/Pro.js",
+		"/D/Programming in Sublime text/FrontEnd/Js/jquery.slim.min.js",
+		"/D/Programming in Sublime text/FrontEnd/BootStyle.css",
+		"/D/Programming in Sublime text/FrontEnd/BootProjectFiles.min.css",
+		"/D/Programming in Sublime text/FrontEnd/kk.js",
+		"/D/Programming in Sublime text/FrontEnd/aa.c",
+		"/D/Programming in Sublime text/FrontEnd/Blog.html",
+		"/D/Programming in Sublime text/FrontEnd/fil.js",
+		"/D/Programming in Sublime text/Game.c",
+		"/D/Programming in Sublime text/FrontEnd/file.js",
+		"/D/Programming in Sublime text/FrontEnd/random1.js",
+		"/D/Programming in Sublime text/FrontEnd/front.js",
+		"/D/Programming in Sublime text/FrontEnd/blogstyle.css",
+		"/D/Programming in Sublime text/FrontEnd/blogj.js",
+		"/D/Project on C/pro.c",
+		"/D/Programming in Sublime text/FrontEnd/nn.css",
+		"/D/Programming in Sublime text/FrontEnd/wiki.html",
+		"/D/Programming in Sublime text/FrontEnd/newsstyle.css",
+		"/D/Programming in Sublime text/FrontEnd/news.html",
+		"/D/Programming in Sublime text/FrontEnd/wikime.css",
+		"/D/Programming in Sublime text/FrontEnd/formstyle.css",
+		"/D/Programming in Sublime text/FrontEnd/forms.html",
+		"/D/Programming in Sublime text/FrontEnd/first.html",
+		"/D/Programming in Sublime text/FrontEnd/basic.html",
+		"/D/Programming in Sublime text/FrontEnd/style.css",
+		"/D/Programming in Sublime text/FrontEnd/AudiosandVedios.html",
+		"/D/Programming in Sublime text/FrontEnd/webpage.html",
+		"/D/Programming in Sublime text/ne.html",
+		"/D/Programming in Sublime text/kk.c",
+		"/D/Project on C/Assignment 2/sp1.c",
+		"/D/Project on C/Assignment 2/new.c",
+		"/D/Project on C/Assignment 2/dise.c",
+		"/D/Project on C/Assignment 2/saleee.c",
+		"/D/Project on C/Assignment 2/sh12.c",
+		"/D/Project on C/Assignment 2/acc.c",
+		"/D/Project on C/Assignment 2/comp.c",
+		"/D/Project on C/Assignment 2/max.c",
+		"/D/Project on C/Assignment 2/dec.c",
+		"/D/Project on C/Assignment 2/geeb.c",
+		"/D/Project on C/Assignment 2/odd1.c",
+		"/D/Project on C/Assignment 2/comp11.c",
+		"/D/Project on C/Assignment 2/acc2.c",
+		"/D/Project on C/Assignment 2/acc1.c",
+		"/D/Project on C/Assignment 2/leap.c",
+		"/D/Project on C/Assignment 2/gee.c",
+		"/D/Project on C/New folder/size.c",
+		"/D/Project on C/New folder/assign.c",
+		"/D/Project on C/New folder/rel1.c",
+		"/D/Project on C/New folder/log.c",
+		"/D/Project on C/New folder/ar2.c",
+		"/D/Project on C/New folder/c2.c",
+		"/D/Project on C/New folder/sim1.c",
+		"/D/Project on C/New folder/sim.c",
+		"/D/Project on C/New folder/simple.c",
+		"/D/Project on C/New folder/que1.c",
+		"/D/Project on C/New folder/float.c",
+		"/D/Project on C/New folder/lit.c",
+		"/D/Project on C/New folder/const.c",
+		"/D/Project on C/New folder/const1.c",
+		"/D/Project on C/New folder/user2.c",
+		"/D/Project on C/New folder/user.c",
+		"/D/Project on C/que6.c",
+		"/D/Project on C/Assign1.c",
+		"/D/Project on C/Assign.c",
+		"/D/Project on C/que4.c",
+		"/D/Project on C/que3.c",
+		"/D/Project on C/que1.c",
+		"/D/Project on C/que3.exe",
+		"/D/Project on C/que.c",
+		"/D/Programming in Sublime text/New folder/patt5.cpp",
+		"/D/Programming in Sublime text/New folder/patt4.cpp",
+		"/D/Programming in Sublime text/New folder/assignment1.cpp",
+		"/D/Programming in Sublime text/New folder/patt2.cpp",
+		"/D/Programming in Sublime text/New folder/patt3.cpp",
+		"/D/Programming in Sublime text/New folder/patt.cpp",
+		"/D/Programming in Sublime text/New folder/pattern4.cpp",
+		"/D/Programming in Sublime text/New folder/work.cpp",
+		"/D/Programming in Sublime text/New folder/pattern.cpp",
+		"/D/Programming in Sublime text/New folder/pattern2.cpp",
+		"/D/Programming in Sublime text/New folder/array1d.cpp",
+		"/D/Programming in Sublime text/New folder/array2d.cpp",
+		"/D/Programming in Sublime text/New folder/pattern3.cpp",
+		"/D/Programming in Sublime text/New folder/pattern5.cpp",
+		"/D/Programming in Sublime text/forloop1.cpp",
+		"/D/Programming in Sublime text/pattern.cpp",
+		"/D/Programming in Sublime text/patternfile.cpp",
+		"/D/Programming in Sublime text/pattern.exe",
+		"/D/Programming in Sublime text/loop.cpp",
+		"/D/Programming in Sublime text/2nd.cpp",
+		"/D/Programming in Sublime text/operator.cpp",
+		"/D/Programming in Sublime text/3d.cpp",
+		"/D/Programming in Sublime text/4th.cpp",
+		"/D/Programming in Sublime text/input.cpp",
+		"/D/Programming in Sublime text/My name.c",
+		"/D/Programming in Sublime text/1dArray.cpp",
+		"/D/Programming in Sublime text/2dArray.cpp",
+		"/D/Programming in Sublime text/pattern9.cpp",
+		"/D/Programming in Sublime text/newpattern.cpp",
+		"/D/Programming in Sublime text/newpattern2.cpp",
+		"/D/Programming in Sublime text/pattern5.cpp",
+		"/D/Programming in Sublime text/newpattern3.cpp",
+		"/D/Programming in Sublime text/pattern4.cpp",
+		"/D/Programming in Sublime text/pattern6.exe",
+		"/D/Programming in Sublime text/pattern6.cpp",
+		"/D/Programming in Sublime text/pattern8.cpp",
+		"/D/Programming in Sublime text/pattern7.cpp",
+		"/D/Programming in Sublime text/newp.cpp",
+		"/D/Programming in Sublime text/pattern2.cpp",
+		"/D/Programming in Sublime text/pattern3.cpp",
+		"/D/Programming in Sublime text/dowhile.cpp",
+		"/D/Programming in Sublime text/for.cpp",
+		"/D/Programming in Sublime text/wh.cpp",
+		"/D/Programming in Sublime text/whileloop.cpp",
+		"/D/Programming in Sublime text/for loop.cpp"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<section>\n\t\t\t\t<audio wdth= \"600\" controls>\n\t\t\t\t\t<source src=\"Dusk.mp3\"Dusk.mp3 type=\"audio.mp3\">\n\t\t\t\t\t</audio>\n\t\t\t\t</section>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Pipboy.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
